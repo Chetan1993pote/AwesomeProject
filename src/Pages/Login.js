@@ -13,7 +13,7 @@ export default class Login extends Component {
         <Logo/>
         <View style={styles.signUpText}>
         <Text style ={styles.signUpTextStyle}>Don't have an account yet?</Text>
-        <Text style ={styles.buttonSignUP}>Sign Up</Text>
+        <Text style ={styles.buttonSignUP}>Sign Up  </Text>
 
         </View>
 
